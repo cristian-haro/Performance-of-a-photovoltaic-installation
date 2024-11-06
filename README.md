@@ -5,7 +5,7 @@
 
 Tool to control personal income and expenses, facilitating the view of the evolution month by month, creating a history of expenses, etc.
 
-[![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)](https://enlace-al-progreso.com)
+![In progress](https://img.shields.io/badge/In_progress-FFD700?style=for-the-badge)
 [![View the report](https://img.shields.io/badge/View_the_report-0078D4?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiYzc0ZTA3NzktNjQyMi00NjhjLWFkNWMtZWQ0ZGJkNjA4NTRjIiwidCI6IjJmNjE1YzI1LTEzNWItNDFjZC04MDhiLTVmY2U1YmQ5NjBjNCIsImMiOjl9&pageName=e38d971d25d287741576)
 
 > Fictitious data have been used in the project
